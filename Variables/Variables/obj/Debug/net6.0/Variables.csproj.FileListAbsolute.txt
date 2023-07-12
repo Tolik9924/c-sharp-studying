@@ -1,0 +1,15 @@
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\bin\Debug\net6.0\Variables.exe
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\bin\Debug\net6.0\Variables.deps.json
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\bin\Debug\net6.0\Variables.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\bin\Debug\net6.0\Variables.pdb
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\Variables.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\refint\Variables.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\Variables.pdb
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Variables\Variables\obj\Debug\net6.0\ref\Variables.dll
