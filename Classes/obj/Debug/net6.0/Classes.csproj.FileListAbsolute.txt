@@ -1,0 +1,15 @@
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\bin\Debug\net6.0\Classes.exe
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\bin\Debug\net6.0\Classes.deps.json
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\bin\Debug\net6.0\Classes.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\bin\Debug\net6.0\Classes.pdb
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\Classes.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\refint\Classes.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\Classes.pdb
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\Classes\obj\Debug\net6.0\ref\Classes.dll
