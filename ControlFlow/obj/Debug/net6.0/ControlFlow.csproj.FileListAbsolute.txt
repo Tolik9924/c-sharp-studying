@@ -1,0 +1,15 @@
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\bin\Debug\net6.0\ControlFlow.exe
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\bin\Debug\net6.0\ControlFlow.deps.json
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\bin\Debug\net6.0\ControlFlow.runtimeconfig.json
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\bin\Debug\net6.0\ControlFlow.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\bin\Debug\net6.0\ControlFlow.pdb
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.AssemblyReference.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfoInputs.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfo.cs
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.CoreCompileInputs.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\refint\ControlFlow.dll
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.pdb
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.genruntimeconfig.cache
+D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ref\ControlFlow.dll
