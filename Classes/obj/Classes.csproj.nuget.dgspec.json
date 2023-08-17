@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\c-sharp\\c-sharp-beginner\\c-sharp-studying\\Classes\\Classes.csproj": {}
+    "C:\\work\\studying\\Classes\\Classes.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\c-sharp\\c-sharp-beginner\\c-sharp-studying\\Classes\\Classes.csproj": {
+    "C:\\work\\studying\\Classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\c-sharp\\c-sharp-beginner\\c-sharp-studying\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\work\\studying\\Classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "D:\\Programming\\c-sharp\\c-sharp-beginner\\c-sharp-studying\\Classes\\Classes.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\c-sharp\\c-sharp-beginner\\c-sharp-studying\\Classes\\obj\\",
+        "projectPath": "C:\\work\\studying\\Classes\\Classes.csproj",
+        "packagesPath": "C:\\Users\\sakur\\.nuget\\packages\\",
+        "outputPath": "C:\\work\\studying\\Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sakur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

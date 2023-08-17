@@ -13,3 +13,17 @@ D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\n
 D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.pdb
 D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ControlFlow.genruntimeconfig.cache
 D:\Programming\c-sharp\c-sharp-beginner\c-sharp-studying\ControlFlow\obj\Debug\net6.0\ref\ControlFlow.dll
+C:\work\studying\ControlFlow\bin\Debug\net6.0\ControlFlow.exe
+C:\work\studying\ControlFlow\bin\Debug\net6.0\ControlFlow.deps.json
+C:\work\studying\ControlFlow\bin\Debug\net6.0\ControlFlow.runtimeconfig.json
+C:\work\studying\ControlFlow\bin\Debug\net6.0\ControlFlow.dll
+C:\work\studying\ControlFlow\bin\Debug\net6.0\ControlFlow.pdb
+C:\work\studying\ControlFlow\obj\Debug\net6.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\studying\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfoInputs.cache
+C:\work\studying\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfo.cs
+C:\work\studying\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.CoreCompileInputs.cache
+C:\work\studying\ControlFlow\obj\Debug\net6.0\ControlFlow.dll
+C:\work\studying\ControlFlow\obj\Debug\net6.0\refint\ControlFlow.dll
+C:\work\studying\ControlFlow\obj\Debug\net6.0\ControlFlow.pdb
+C:\work\studying\ControlFlow\obj\Debug\net6.0\ControlFlow.genruntimeconfig.cache
+C:\work\studying\ControlFlow\obj\Debug\net6.0\ref\ControlFlow.dll

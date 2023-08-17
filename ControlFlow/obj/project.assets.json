@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {}
+    "C:\\Users\\sakur\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\c-sharp\\c-sharp-beginner\\c-sharp-studying\\ControlFlow\\ControlFlow.csproj",
+      "projectUniqueName": "C:\\work\\studying\\ControlFlow\\ControlFlow.csproj",
       "projectName": "ControlFlow",
-      "projectPath": "D:\\Programming\\c-sharp\\c-sharp-beginner\\c-sharp-studying\\ControlFlow\\ControlFlow.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Programming\\c-sharp\\c-sharp-beginner\\c-sharp-studying\\ControlFlow\\obj\\",
+      "projectPath": "C:\\work\\studying\\ControlFlow\\ControlFlow.csproj",
+      "packagesPath": "C:\\Users\\sakur\\.nuget\\packages\\",
+      "outputPath": "C:\\work\\studying\\ControlFlow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sakur\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
