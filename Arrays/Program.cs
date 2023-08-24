@@ -1,4 +1,6 @@
-﻿namespace Arrays
+﻿using System.Collections.Generic;
+
+namespace Arrays
 {
     class Program
     {
@@ -152,6 +154,89 @@
             foreach (var item in res)
             {
                 Console.WriteLine(item);
+            }
+
+            // Task 4
+            Console.WriteLine("Task 4");
+
+            List<int> UniqueNumbers()
+            {
+                Console.WriteLine("Enter 5 numbers or Quit");
+                string five_numbers = Console.ReadLine();
+                string[] subs_of_numbers = five_numbers.Split(" ");
+                List<int> lists_of_five_numbers = new List<int>();
+
+                if (five_numbers != "Quit")
+                {
+                    for (int i = 0; i < subs_of_numbers.Length; i++)
+                    {
+                        lists_of_five_numbers.Add(int.Parse(subs_of_numbers[i]));
+                    }
+
+                    List<int> unqiue = lists_of_five_numbers.Distinct().ToList();
+
+
+                    return unqiue;
+                }
+
+                return lists_of_five_numbers;
+            }
+
+            var unique_numbers = UniqueNumbers();
+
+            if (unique_numbers.Count > 0)
+            {
+                Console.WriteLine("Unique Numbers");
+                foreach (var item in unique_numbers)
+                {
+                    Console.WriteLine(item);
+                }
+            }
+
+            // 5 task
+            Console.WriteLine("Task 5");
+
+            List<int> EnteredNumbers()
+            {
+                Console.WriteLine("Write five numbers divided by coma and space.");
+                string five_numbers = Console.ReadLine();
+                string[] subs_of_numbers = five_numbers.Split(", ");
+                List<int> list_of_numbers = new List<int>();
+
+                for (int i = 0; i < subs_of_numbers.Length; i++)
+                {
+                    list_of_numbers.Add(int.Parse(subs_of_numbers[i]));
+                }
+
+                if (subs_of_numbers.Length < 5)
+                {
+                    Console.WriteLine("Count of list" + lists_of_numbers.Count);
+                    Console.WriteLine("Invalid List");
+                    Console.WriteLine("Repeat entering number");
+                    EnteredNumbers();
+                }
+
+                return list_of_numbers;
+            }
+
+            List<int> resulting_numbers = EnteredNumbers();
+
+            for (int i = 1; i < resulting_numbers.Count; i++)
+            {
+                for (int j = 0; j < resulting_numbers.Count - i; j++)
+                {
+                    if (resulting_numbers[j] > res[j + 1])
+                    {
+                        temp = resulting_numbers[j];
+                        resulting_numbers[j] = resulting_numbers[j + 1];
+                        resulting_numbers[j + 1] = temp;
+                    }
+                }
+            }
+
+            for (int i = 0; i < 3; i++)
+            {
+                Console.WriteLine(resulting_numbers[i]);
             }
         }
     }
