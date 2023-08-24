@@ -1,0 +1,14 @@
+C:\work\studying\Dates\bin\Debug\net6.0\Dates.exe
+C:\work\studying\Dates\bin\Debug\net6.0\Dates.deps.json
+C:\work\studying\Dates\bin\Debug\net6.0\Dates.runtimeconfig.json
+C:\work\studying\Dates\bin\Debug\net6.0\Dates.dll
+C:\work\studying\Dates\bin\Debug\net6.0\Dates.pdb
+C:\work\studying\Dates\obj\Debug\net6.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\studying\Dates\obj\Debug\net6.0\Dates.AssemblyInfoInputs.cache
+C:\work\studying\Dates\obj\Debug\net6.0\Dates.AssemblyInfo.cs
+C:\work\studying\Dates\obj\Debug\net6.0\Dates.csproj.CoreCompileInputs.cache
+C:\work\studying\Dates\obj\Debug\net6.0\Dates.dll
+C:\work\studying\Dates\obj\Debug\net6.0\refint\Dates.dll
+C:\work\studying\Dates\obj\Debug\net6.0\Dates.pdb
+C:\work\studying\Dates\obj\Debug\net6.0\Dates.genruntimeconfig.cache
+C:\work\studying\Dates\obj\Debug\net6.0\ref\Dates.dll
