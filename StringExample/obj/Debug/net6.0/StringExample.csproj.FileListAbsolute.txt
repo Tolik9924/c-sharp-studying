@@ -1,0 +1,14 @@
+C:\work\studying\StringExample\bin\Debug\net6.0\StringExample.exe
+C:\work\studying\StringExample\bin\Debug\net6.0\StringExample.deps.json
+C:\work\studying\StringExample\bin\Debug\net6.0\StringExample.runtimeconfig.json
+C:\work\studying\StringExample\bin\Debug\net6.0\StringExample.dll
+C:\work\studying\StringExample\bin\Debug\net6.0\StringExample.pdb
+C:\work\studying\StringExample\obj\Debug\net6.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\studying\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfoInputs.cache
+C:\work\studying\StringExample\obj\Debug\net6.0\StringExample.AssemblyInfo.cs
+C:\work\studying\StringExample\obj\Debug\net6.0\StringExample.csproj.CoreCompileInputs.cache
+C:\work\studying\StringExample\obj\Debug\net6.0\StringExample.dll
+C:\work\studying\StringExample\obj\Debug\net6.0\refint\StringExample.dll
+C:\work\studying\StringExample\obj\Debug\net6.0\StringExample.pdb
+C:\work\studying\StringExample\obj\Debug\net6.0\StringExample.genruntimeconfig.cache
+C:\work\studying\StringExample\obj\Debug\net6.0\ref\StringExample.dll
