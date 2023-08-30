@@ -52,6 +52,109 @@ namespace StringExample
             Console.WriteLine(builder);
 
             Console.WriteLine("First Char: " + builder[0]);
+
+            // task 1
+
+            Console.WriteLine("Task 1");
+
+            Console.WriteLine("Enter few numbers separated by nyphen");
+            var numbers_separated_by_nyphen = Console.ReadLine();
+            var arr_numbers = numbers_separated_by_nyphen.Split('-');
+            var is_Consecutive = false;
+            for (int i = 1; i < arr_numbers.Length; i++)
+            {
+                var first_number = Int32.Parse(arr_numbers[i]);
+                var second_number = Int32.Parse(arr_numbers[i - 1]);
+                var res = first_number - second_number;
+                if (res == 1 || res == -1)
+                {
+                    is_Consecutive = true;
+                }
+                else {
+                    is_Consecutive = false;
+                    break;
+                }
+            }
+
+            if (is_Consecutive)
+            {
+                Console.WriteLine("Consecutive");
+            } else
+            {
+                Console.WriteLine("Not Consecutive");
+            }
+
+            // Task 2
+            Console.WriteLine("Task 2");
+
+            Console.WriteLine("Enter few numbers separated by nyphen");
+            var numbers_sep_by_nyphen = Console.ReadLine();
+            var wrong_numbers = false;
+
+            if (numbers_sep_by_nyphen.Length == 0)
+            {
+                System.Environment.Exit(1);
+            }
+
+            var arr_numbers_sep_by_nyphen = numbers_sep_by_nyphen.Split('-');
+
+            for (int i = 0; i < arr_numbers_sep_by_nyphen.Length; i++)
+            {
+                for (int j = i + 1; j < arr_numbers_sep_by_nyphen.Length; j++)
+                {
+                    if (arr_numbers_sep_by_nyphen[i] == arr_numbers_sep_by_nyphen[j])
+                    {
+                        wrong_numbers = true;
+                        break;
+                    }
+                }
+            }
+
+            if (wrong_numbers)
+            {
+                Console.WriteLine("Duplicate");
+            } else
+            {
+                Console.WriteLine("Correct numbers");
+            }
+
+            // Task 3
+            Console.WriteLine("Task 3");
+
+            //Actual Solution
+
+            Console.Write("Enter time: ");
+            var input = Console.ReadLine();
+
+            if (String.IsNullOrWhiteSpace(input))
+            {
+                Console.WriteLine("Invalid Time");
+                return;
+            }
+
+            var components = input.Split(':');
+            if (components.Length != 2)
+            {
+                Console.WriteLine("Invalid Time");
+                return;
+            }
+
+            try
+            {
+                var hour = Convert.ToInt32(components[0]);
+                var minute = Convert.ToInt32(components[1]);
+
+                if (hour >= 0 && hour <= 23 && minute >= 0 && minute <= 59)
+                    Console.WriteLine("Ok");
+                else
+                    Console.WriteLine("Invalid Time");
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Invalid Time");
+            }
+
+            // Task 4
         }
     }
 }
