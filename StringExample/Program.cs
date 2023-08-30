@@ -155,6 +155,53 @@ namespace StringExample
             }
 
             // Task 4
+            Console.WriteLine("Task 4");
+
+            Console.WriteLine("Enter sentence");
+
+            var text_example = Console.ReadLine();
+            var text_arr = text_example.Split(" ");
+
+            for (int i = 0; i < text_arr.Length; i++)
+            {
+                char[] word = text_arr[i].ToCharArray();
+                for(int j = 0; j < word.Length; j++)
+                {
+                    if (j != 0)
+                    {
+                        word[j] = char.ToLower(word[j]);
+                    } else if(j == 0)
+                    {
+                        word[j] = char.ToUpper(word[j]);
+                    }
+                }
+                text_arr[i] = string.Join("", word);
+            }
+
+            string result = string.Join("", text_arr);
+            Console.WriteLine(result);
+
+            // Task 5
+            Console.WriteLine("Task 5");
+
+            Console.WriteLine("Enter English word");
+            string english_word = Console.ReadLine();
+            char[] vowels = { 'a', 'e', 'o', 'u', 'i' };
+            char[] arr_english_word = english_word.ToCharArray();
+            int count = 0;
+
+            for (int i = 0; i < vowels.Length; i++)
+            {
+                for (int j = 0; j < arr_english_word.Length; j++)
+                {
+                    if (vowels[i] == arr_english_word[j])
+                    {
+                        count++;
+                    }
+                }
+            }
+
+            Console.WriteLine("Count: " + count);
         }
     }
 }
