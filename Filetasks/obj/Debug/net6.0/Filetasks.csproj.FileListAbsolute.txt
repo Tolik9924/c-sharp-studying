@@ -1,0 +1,14 @@
+C:\work\studying\Filetasks\bin\Debug\net6.0\Filetasks.exe
+C:\work\studying\Filetasks\bin\Debug\net6.0\Filetasks.deps.json
+C:\work\studying\Filetasks\bin\Debug\net6.0\Filetasks.runtimeconfig.json
+C:\work\studying\Filetasks\bin\Debug\net6.0\Filetasks.dll
+C:\work\studying\Filetasks\bin\Debug\net6.0\Filetasks.pdb
+C:\work\studying\Filetasks\obj\Debug\net6.0\Filetasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\studying\Filetasks\obj\Debug\net6.0\Filetasks.AssemblyInfoInputs.cache
+C:\work\studying\Filetasks\obj\Debug\net6.0\Filetasks.AssemblyInfo.cs
+C:\work\studying\Filetasks\obj\Debug\net6.0\Filetasks.csproj.CoreCompileInputs.cache
+C:\work\studying\Filetasks\obj\Debug\net6.0\Filetasks.dll
+C:\work\studying\Filetasks\obj\Debug\net6.0\refint\Filetasks.dll
+C:\work\studying\Filetasks\obj\Debug\net6.0\Filetasks.pdb
+C:\work\studying\Filetasks\obj\Debug\net6.0\Filetasks.genruntimeconfig.cache
+C:\work\studying\Filetasks\obj\Debug\net6.0\ref\Filetasks.dll
