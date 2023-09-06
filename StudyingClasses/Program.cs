@@ -2,30 +2,19 @@
 
 namespace StuyingClasses
 {
-
-    public class Person
-    {
-        public string Name;
-
-        public void Introduce(string to)
-        {
-            Console.WriteLine("Hi, {0}, I am {1}", to, Name);
-        }
-
-        public static Person Parse(string str) { 
-            var person = new Person();
-            person.Name = str;
-
-            return person;
-        }
-    }
-
     class Program
     {
         static void Main(string[] args)
         {
             var person = Person.Parse("John");
             person.Introduce("Mosh");
+
+            Person person1 = new Person(new DateTime(1982, 1, 1));
+            person1.SetBirthdate(new DateTime(1982, 1, 1));
+            Console.WriteLine(person1.GetBirthdate());
+
+            Person person2 = new Person(new DateTime(1982, 1, 1));          
+            Console.WriteLine("Years: {0}", person2.Age);
 
             // Constructors
             var customer = new Customer(1);
@@ -52,6 +41,11 @@ namespace StuyingClasses
                 Console.WriteLine(number);
             else
                 Console.WriteLine("Conversion failed.");
+            
+            // Indexers
+            var cookie = new HttpCookie();
+            cookie["name"] = "Mosh";
+            Console.WriteLine(cookie["name"]);
         }
 
         static void useParams()
