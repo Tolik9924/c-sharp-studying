@@ -13,7 +13,7 @@ namespace StuyingClasses
             person1.SetBirthdate(new DateTime(1982, 1, 1));
             Console.WriteLine(person1.GetBirthdate());
 
-            Person person2 = new Person(new DateTime(1982, 1, 1));          
+            Person person2 = new Person(new DateTime(1982, 1, 1));
             Console.WriteLine("Years: {0}", person2.Age);
 
             // Constructors
@@ -41,11 +41,17 @@ namespace StuyingClasses
                 Console.WriteLine(number);
             else
                 Console.WriteLine("Conversion failed.");
-            
+
             // Indexers
             var cookie = new HttpCookie();
             cookie["name"] = "Mosh";
             Console.WriteLine(cookie["name"]);
+
+            // Stopwatch
+            MyTimer time = new MyTimer();
+            
+            UseMyTime(time);
+
         }
 
         static void useParams()
@@ -71,6 +77,31 @@ namespace StuyingClasses
             {
                 Console.WriteLine("An unexpected error occured.");
             }
+        }
+
+        static void UseMyTime(MyTimer time)
+        {
+            Console.WriteLine("Write start time or quit.");
+            string command = Console.ReadLine();
+
+            if (command == "start")
+            {
+                time.Start();
+                UseMyTime(time);
+            }
+
+            if (command == "stop")
+            {
+                Console.WriteLine(time.GetCurrentTime());
+                time.Stop();
+                UseMyTime(time);
+            }
+
+            if (command == "quit")
+            {
+                Console.WriteLine("Thanks for using");
+            }
+
         }
     }
 }
