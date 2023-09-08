@@ -92,7 +92,7 @@ namespace StuyingClasses
 
             if (command == "stop")
             {
-                Console.WriteLine(time.GetCurrentTime());
+                Console.WriteLine("Duration: " + time.GetCurrentTime().ToString());
                 time.Stop();
                 UseMyTime(time);
             }

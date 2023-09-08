@@ -10,11 +10,12 @@ namespace StudyingClasses
     public class MyTimer
     {
         private DateTime _startTime;
-        public bool IsRunning = false;
+        private DateTime _endTime;
+        private bool _isRunning = false;
 
         public void Start(bool reset = false)
         {
-            if (IsRunning && !reset)
+            if (_isRunning && !reset)
             {
                 throw new InvalidOperationException("Timer is already running! If you wanted to restart consider passing true as parameter.");
             }
@@ -23,27 +24,23 @@ namespace StudyingClasses
 
             Console.WriteLine($"in Start: {_startTime.Hour}:{_startTime.Minute}:{_startTime.Second}");
 
-            IsRunning = true;
+            _isRunning = true;
         }
 
         public void Stop()
         {
-            IsRunning = false;
-        }
-
-        public string GetCurrentTime()
-        {
-            if (!IsRunning)
+            if (!_isRunning)
             {
-                Console.WriteLine("Trying to get a time from a Timer that isn't running!");
-                return "--:--:---";
+                throw new InvalidOperationException("Stopwatch is not running!");
             }
 
-            DateTime endTime = DateTime.Now;
+            _isRunning = false;
+        }
 
-            TimeSpan timeDifference =  endTime.Subtract(_startTime);
+        public TimeSpan GetCurrentTime()
+        {                      
 
-            return $"{timeDifference}";
+            return _endTime - _startTime;
         }
     }
 }
