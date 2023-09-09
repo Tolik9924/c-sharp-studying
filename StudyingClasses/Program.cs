@@ -52,6 +52,15 @@ namespace StuyingClasses
             
             UseMyTime(time);
 
+            // StackOverflow Post
+            Post post = new Post();
+            post.titleOfPost("Title");
+            post.descriptionOfPost("Description");
+            Console.WriteLine(post.showPost());
+            post.likeDislikePost("like");
+            Console.WriteLine(post.showPost());
+            post.likeDislikePost("dislike");
+            Console.WriteLine(post.showPost());
         }
 
         static void useParams()
