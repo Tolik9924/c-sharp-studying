@@ -61,6 +61,11 @@ namespace StuyingClasses
             Console.WriteLine(post.showPost());
             post.likeDislikePost("dislike");
             Console.WriteLine(post.showPost());
+
+            // INHERITANCE
+            var text = new Text();
+            text.Width = 100;
+            text.Copy();
         }
 
         static void useParams()
