@@ -1,5 +1,7 @@
 ﻿using StudyingClasses;
 
+using Amazon;
+
 namespace StuyingClasses
 {
     class Program
@@ -14,16 +16,7 @@ namespace StuyingClasses
             Console.WriteLine(person1.GetBirthdate());
 
             Person person2 = new Person(new DateTime(1982, 1, 1));
-            Console.WriteLine("Years: {0}", person2.Age);
-
-            // Constructors
-            var customer = new Customer(1);
-            customer.Orders.Add(new Order());
-            customer.Orders.Add(new Order());
-
-            customer.Promote();
-
-            Console.WriteLine(customer.Orders.Count);
+            Console.WriteLine("Years: {0}", person2.Age);            
 
             // Methods
             try
@@ -66,6 +59,19 @@ namespace StuyingClasses
             var text = new Text();
             text.Width = 100;
             text.Copy();
+
+            // Composition
+            var dbMigrator = new DbMigrator(new Logger());
+
+            var logger = new Logger();
+            var installer = new Installer(logger);
+
+            dbMigrator.Migrate();
+            installer.Install();
+
+            // Access Modifiers
+            Amazon.Customer customer1 = new Customer();
+            Amazon.RateCalculate calculator = new RateCalculate();           
         }
 
         static void useParams()

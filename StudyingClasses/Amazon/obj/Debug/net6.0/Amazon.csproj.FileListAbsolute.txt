@@ -1,0 +1,11 @@
+C:\work\studying\StudyingClasses\Amazon\bin\Debug\net6.0\Amazon.deps.json
+C:\work\studying\StudyingClasses\Amazon\bin\Debug\net6.0\Amazon.dll
+C:\work\studying\StudyingClasses\Amazon\bin\Debug\net6.0\Amazon.pdb
+C:\work\studying\StudyingClasses\Amazon\obj\Debug\net6.0\Amazon.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\studying\StudyingClasses\Amazon\obj\Debug\net6.0\Amazon.AssemblyInfoInputs.cache
+C:\work\studying\StudyingClasses\Amazon\obj\Debug\net6.0\Amazon.AssemblyInfo.cs
+C:\work\studying\StudyingClasses\Amazon\obj\Debug\net6.0\Amazon.csproj.CoreCompileInputs.cache
+C:\work\studying\StudyingClasses\Amazon\obj\Debug\net6.0\Amazon.dll
+C:\work\studying\StudyingClasses\Amazon\obj\Debug\net6.0\refint\Amazon.dll
+C:\work\studying\StudyingClasses\Amazon\obj\Debug\net6.0\Amazon.pdb
+C:\work\studying\StudyingClasses\Amazon\obj\Debug\net6.0\ref\Amazon.dll

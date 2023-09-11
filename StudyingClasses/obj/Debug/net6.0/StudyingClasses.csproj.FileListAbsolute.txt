@@ -12,3 +12,11 @@ C:\work\studying\StudyingClasses\obj\Debug\net6.0\refint\StudyingClasses.dll
 C:\work\studying\StudyingClasses\obj\Debug\net6.0\StudyingClasses.pdb
 C:\work\studying\StudyingClasses\obj\Debug\net6.0\StudyingClasses.genruntimeconfig.cache
 C:\work\studying\StudyingClasses\obj\Debug\net6.0\ref\StudyingClasses.dll
+C:\work\studying\StudyingClasses\obj\Debug\net6.0\StudyingClasses.csproj.AssemblyReference.cache
+C:\work\studying\MyClasses\StudyingClasses\obj\Debug\net6.0\StudyingClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\studying\MyClasses\StudyingClasses\obj\Debug\net6.0\StudyingClasses.AssemblyInfoInputs.cache
+C:\work\studying\MyClasses\StudyingClasses\obj\Debug\net6.0\StudyingClasses.AssemblyInfo.cs
+C:\work\studying\MyClasses\StudyingClasses\obj\Debug\net6.0\StudyingClasses.csproj.CoreCompileInputs.cache
+C:\work\studying\MyClasses\StudyingClasses\obj\Debug\net6.0\StudyingClasses.dll
+C:\work\studying\MyClasses\StudyingClasses\obj\Debug\net6.0\refint\StudyingClasses.dll
+C:\work\studying\MyClasses\StudyingClasses\obj\Debug\net6.0\StudyingClasses.pdb
