@@ -39,6 +39,21 @@ class Program
         list.Add(DateTime.Today);
 
         var anotherList1 = new List<int>();
-        var names = new List<string>();      
+        var names = new List<string>();
+
+        // Design Stack
+        Console.WriteLine("Design Stack");
+        MyStack stack = new MyStack();
+        stack.Push(1);
+        stack.Push(2);
+        stack.Push(3);
+
+        Console.WriteLine(stack.Pop());
+        Console.WriteLine(stack.Pop());
+        Console.WriteLine(stack.Pop());
+
+        //stack.Clear();
+
+        Console.WriteLine(stack.ShowCountOfList());
     }
 }
