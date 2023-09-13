@@ -81,5 +81,9 @@ class Program
         oracleConnection.Openning();
         oracleConnection.Execute();
         oracleConnection.Closenning();
+
+        // Interfaces and Extensibility
+        var dbMigrator = new DbMigrator(new ConsoleLogger());
+        dbMigrator.Migrate();
     }
 }
