@@ -10,5 +10,10 @@ namespace Inheritance
     {
         public int FontSize { get; set; }
         public int FontName { get; set; }
+
+        public override void Draw()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

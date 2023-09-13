@@ -55,5 +55,31 @@ class Program
         //stack.Clear();
 
         Console.WriteLine(stack.ShowCountOfList());
+
+        // Overriding
+        var shapes = new List<Shape>();
+        shapes.Add(new Circle());
+        shapes.Add(new Rectangle());
+
+        var canvas = new Canvas();
+        canvas.DrawShape(shapes);
+
+        // Abstract Classes and Members
+        var circle = new Circle();
+        circle.Draw();
+
+        var rectangle = new Rectangle();
+        rectangle.Draw();
+
+        // Design a database connection
+        SqlConnection sqlConnection = new SqlConnection("connecting", "sql");
+        sqlConnection.Openning();
+        sqlConnection.Execute();
+        sqlConnection.Closenning();
+
+        OracleConnection oracleConnection = new OracleConnection("connecting", "oracle");
+        oracleConnection.Openning();
+        oracleConnection.Execute();
+        oracleConnection.Closenning();
     }
 }
