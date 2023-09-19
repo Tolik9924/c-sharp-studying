@@ -85,5 +85,12 @@ class Program
         // Interfaces and Extensibility
         var dbMigrator = new DbMigrator(new ConsoleLogger());
         dbMigrator.Migrate();
+
+        // WorkflowEngine exercise
+        Workflow workflow = new Workflow();
+        workflow.Add(new CarEngine());
+        workflow.Add(new PlaneEngine());        
+        WorkflowEngine engine = new WorkflowEngine();
+        engine.Run(workflow);
     }
 }
