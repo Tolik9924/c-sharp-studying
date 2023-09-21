@@ -1,0 +1,14 @@
+C:\work\studying\AdvancedTopics\bin\Debug\net6.0\AdvancedTopics.exe
+C:\work\studying\AdvancedTopics\bin\Debug\net6.0\AdvancedTopics.deps.json
+C:\work\studying\AdvancedTopics\bin\Debug\net6.0\AdvancedTopics.runtimeconfig.json
+C:\work\studying\AdvancedTopics\bin\Debug\net6.0\AdvancedTopics.dll
+C:\work\studying\AdvancedTopics\bin\Debug\net6.0\AdvancedTopics.pdb
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\AdvancedTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\AdvancedTopics.AssemblyInfoInputs.cache
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\AdvancedTopics.AssemblyInfo.cs
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\AdvancedTopics.csproj.CoreCompileInputs.cache
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\AdvancedTopics.dll
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\refint\AdvancedTopics.dll
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\AdvancedTopics.pdb
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\AdvancedTopics.genruntimeconfig.cache
+C:\work\studying\AdvancedTopics\obj\Debug\net6.0\ref\AdvancedTopics.dll
